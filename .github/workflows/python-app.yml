@@ -8,7 +8,7 @@ on:
     push:
     schedule:
     - cron: '10 22 * * *'
-    - cron: '12 0 * * *'
+    - cron: '20 0 * * *'
       # 👆在上面那行修改打卡时间
       # 06:10 everyday in UTC+8, 22:10 everyday in UTC+0
 
