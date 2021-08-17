@@ -59,6 +59,7 @@ def main():
                     "RealAddress":real_address,
                     "IsUnusual":"0",
                     "UnusualInfo":"",
+                    "QRCodeColor":"绿色",
                     "IsTouch":"0",
                     "IsInsulated":"0",
                     "IsSuspected":"0",
