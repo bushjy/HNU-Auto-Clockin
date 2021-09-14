@@ -55,7 +55,7 @@ def main():
     clockin_data = {"Temperature":"null",
                     "RealProvince":args.province,
                     "RealCity":args.city,
-                    "RealCounty":"西湖区",
+                    "RealCounty":"岳麓区",
                     "RealAddress":real_address,
                     "IsUnusual":"0",
                     "UnusualInfo":"",
